@@ -5,6 +5,6 @@ public class Main {
         Employee employee = new Employee("Forough", 1001, 50000000);
 	employee.setSalary(55000000);
 
-        employee.showInfo();
+        employee.displayInfo();
     }
 }
